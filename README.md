@@ -4,7 +4,7 @@ A Python script to add rounded corners to X-based displays.
 
 xround uses [python-xlib](https://github.com/python-xlib/) and X's Shape extension to draw faux corners above the user's display. The corners are #000000 and will persist across workspaces and above all (most) windows.
 
-[![xround.png](https://s3.postimg.org/serjvz1w3/xround.png)](https://postimg.org/image/pkoeiizpr/)
+![Image](/example.png)
 
 ## Installation:
 
